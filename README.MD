@@ -15,3 +15,10 @@ In this repository, I will provide the code to replicate the results of some int
    In the original paper, the authors reviewed evidence regarding whether large language models (LLMs) like GPT-3 can simulate human judgment and serve as substitutes for human participants in psychological research.
 
    [Paper Link](https://nikett.github.io/gpt-as-participant/)
+
+
+
+## Analysis
+
+Detailed analysis and data generated for this project can be found in the Analysis folder
+

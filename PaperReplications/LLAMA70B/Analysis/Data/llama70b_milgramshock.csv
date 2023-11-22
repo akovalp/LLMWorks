@@ -1,0 +1,501 @@
+name,gender,max_shock,ethnicity
+Etsitty,Mr,1,American Indian
+Etsitty,Ms,13,American Indian
+Standingrock,Mr,2,American Indian
+Standingrock,Ms,0,American Indian
+Littlelight,Mr,4,American Indian
+Littlelight,Ms,2,American Indian
+Yazzie,Mr,19,American Indian
+Yazzie,Ms,15,American Indian
+Goldtooth,Mr,1,American Indian
+Goldtooth,Ms,6,American Indian
+Hosteen,Mr,8,American Indian
+Hosteen,Ms,3,American Indian
+Cayaditto,Mr,5,American Indian
+Cayaditto,Ms,6,American Indian
+Blueeyes,Mr,4,American Indian
+Blueeyes,Ms,19,American Indian
+Benally,Mr,5,American Indian
+Benally,Ms,2,American Indian
+Secatero,Mr,19,American Indian
+Secatero,Ms,5,American Indian
+Manygoats,Mr,1,American Indian
+Manygoats,Ms,0,American Indian
+Notah,Mr,19,American Indian
+Notah,Ms,1,American Indian
+Kanuho,Mr,2,American Indian
+Kanuho,Ms,1,American Indian
+Bitsie,Mr,19,American Indian
+Bitsie,Ms,19,American Indian
+Kameroff,Mr,7,American Indian
+Kameroff,Ms,1,American Indian
+Twobulls,Mr,11,American Indian
+Twobulls,Ms,1,American Indian
+Gishie,Mr,19,American Indian
+Gishie,Ms,19,American Indian
+Ahasteen,Mr,0,American Indian
+Ahasteen,Ms,0,American Indian
+Littledog,Mr,0,American Indian
+Littledog,Ms,1,American Indian
+Laughing,Mr,1,American Indian
+Laughing,Ms,8,American Indian
+Bullbear,Mr,19,American Indian
+Bullbear,Ms,19,American Indian
+Arcoren,Mr,1,American Indian
+Arcoren,Ms,7,American Indian
+Declay,Mr,3,American Indian
+Declay,Ms,0,American Indian
+Spottedeagle,Mr,4,American Indian
+Spottedeagle,Ms,1,American Indian
+Begaye,Mr,4,American Indian
+Begaye,Ms,0,American Indian
+Poorbear,Mr,8,American Indian
+Poorbear,Ms,12,American Indian
+Keams,Mr,3,American Indian
+Keams,Ms,12,American Indian
+Beyale,Mr,1,American Indian
+Beyale,Ms,0,American Indian
+Ayze,Mr,19,American Indian
+Ayze,Ms,19,American Indian
+Attakai,Mr,3,American Indian
+Attakai,Ms,7,American Indian
+Ethelbah,Mr,1,American Indian
+Ethelbah,Ms,0,American Indian
+Smallcanyon,Mr,0,American Indian
+Smallcanyon,Ms,0,American Indian
+Chasinghawk,Mr,2,American Indian
+Chasinghawk,Ms,0,American Indian
+Cowboy,Mr,19,American Indian
+Cowboy,Ms,1,American Indian
+Roanhorse,Mr,0,American Indian
+Roanhorse,Ms,2,American Indian
+Bitsuie,Mr,0,American Indian
+Bitsuie,Ms,3,American Indian
+Keyonnie,Mr,6,American Indian
+Keyonnie,Ms,19,American Indian
+Haskie,Mr,19,American Indian
+Haskie,Ms,19,American Indian
+Talayumptewa,Mr,3,American Indian
+Talayumptewa,Ms,0,American Indian
+Shije,Mr,5,American Indian
+Shije,Ms,4,American Indian
+Eriacho,Mr,19,American Indian
+Eriacho,Ms,5,American Indian
+Tsinnijinnie,Mr,0,American Indian
+Tsinnijinnie,Ms,0,American Indian
+Chinana,Mr,1,American Indian
+Chinana,Ms,10,American Indian
+Yellowhair,Mr,1,American Indian
+Yellowhair,Ms,0,American Indian
+Heavyrunner,Mr,4,American Indian
+Heavyrunner,Ms,3,American Indian
+Cosay,Mr,3,American Indian
+Cosay,Ms,5,American Indian
+Whiteface,Mr,0,American Indian
+Whiteface,Ms,2,American Indian
+Benallie,Mr,13,American Indian
+Benallie,Ms,19,American Indian
+Apachito,Mr,2,American Indian
+Apachito,Ms,1,American Indian
+Kallestewa,Mr,3,American Indian
+Kallestewa,Ms,0,American Indian
+Zhu,Mr,5,ANHOPI
+Zhu,Ms,4,ANHOPI
+Lin,Mr,12,ANHOPI
+Lin,Ms,18,ANHOPI
+Lim,Mr,19,ANHOPI
+Lim,Ms,19,ANHOPI
+Chau,Mr,3,ANHOPI
+Chau,Ms,2,ANHOPI
+Song,Mr,3,ANHOPI
+Song,Ms,0,ANHOPI
+Su,Mr,4,ANHOPI
+Su,Ms,1,ANHOPI
+Liu,Mr,1,ANHOPI
+Liu,Ms,12,ANHOPI
+Vue,Mr,3,ANHOPI
+Vue,Ms,1,ANHOPI
+Kang,Mr,9,ANHOPI
+Kang,Ms,2,ANHOPI
+Tang,Mr,0,ANHOPI
+Tang,Ms,2,ANHOPI
+Dong,Mr,0,ANHOPI
+Dong,Ms,13,ANHOPI
+Vang,Mr,8,ANHOPI
+Vang,Ms,2,ANHOPI
+Moua,Mr,19,ANHOPI
+Moua,Ms,14,ANHOPI
+Vu,Mr,19,ANHOPI
+Vu,Ms,8,ANHOPI
+Yu,Mr,19,ANHOPI
+Yu,Ms,19,ANHOPI
+Phan,Mr,9,ANHOPI
+Phan,Ms,18,ANHOPI
+Huynh,Mr,19,ANHOPI
+Huynh,Ms,0,ANHOPI
+Thai,Mr,3,ANHOPI
+Thai,Ms,0,ANHOPI
+Han,Mr,19,ANHOPI
+Han,Ms,5,ANHOPI
+Cho,Mr,13,ANHOPI
+Cho,Ms,2,ANHOPI
+Dao,Mr,1,ANHOPI
+Dao,Ms,0,ANHOPI
+Zhao,Mr,19,ANHOPI
+Zhao,Ms,11,ANHOPI
+Hwang,Mr,19,ANHOPI
+Hwang,Ms,19,ANHOPI
+Chu,Mr,3,ANHOPI
+Chu,Ms,3,ANHOPI
+Chowdhury,Mr,0,ANHOPI
+Chowdhury,Ms,0,ANHOPI
+Leung,Mr,0,ANHOPI
+Leung,Ms,6,ANHOPI
+Sun,Mr,15,ANHOPI
+Sun,Ms,1,ANHOPI
+Pan,Mr,4,ANHOPI
+Pan,Ms,1,ANHOPI
+Guo,Mr,4,ANHOPI
+Guo,Ms,19,ANHOPI
+Cheng,Mr,1,ANHOPI
+Cheng,Ms,2,ANHOPI
+Sharma,Mr,1,ANHOPI
+Sharma,Ms,1,ANHOPI
+Chung,Mr,16,ANHOPI
+Chung,Ms,19,ANHOPI
+Gupta,Mr,3,ANHOPI
+Gupta,Ms,6,ANHOPI
+Tam,Mr,3,ANHOPI
+Tam,Ms,10,ANHOPI
+Truong,Mr,1,ANHOPI
+Truong,Ms,16,ANHOPI
+Hu,Mr,9,ANHOPI
+Hu,Ms,3,ANHOPI
+Dinh,Mr,3,ANHOPI
+Dinh,Ms,1,ANHOPI
+Yi,Mr,19,ANHOPI
+Yi,Ms,19,ANHOPI
+Begum,Mr,0,ANHOPI
+Begum,Ms,3,ANHOPI
+Ha,Mr,3,ANHOPI
+Ha,Ms,2,ANHOPI
+Ngo,Mr,5,ANHOPI
+Ngo,Ms,4,ANHOPI
+Trinh,Mr,19,ANHOPI
+Trinh,Ms,1,ANHOPI
+Bui,Mr,10,ANHOPI
+Bui,Ms,12,ANHOPI
+Zhang,Mr,2,ANHOPI
+Zhang,Ms,19,ANHOPI
+Kim,Mr,9,ANHOPI
+Kim,Ms,1,ANHOPI
+Ng,Mr,3,ANHOPI
+Ng,Ms,0,ANHOPI
+Lor,Mr,19,ANHOPI
+Lor,Ms,19,ANHOPI
+Choi,Mr,19,ANHOPI
+Choi,Ms,19,ANHOPI
+Ma,Mr,19,ANHOPI
+Ma,Ms,11,ANHOPI
+Ko,Mr,19,ANHOPI
+Ko,Ms,19,ANHOPI
+Dorvil,Mr,19,African American
+Dorvil,Ms,7,African American
+Yeboah,Mr,1,African American
+Yeboah,Ms,0,African American
+Jeanbaptiste,Mr,19,African American
+Jeanbaptiste,Ms,1,African American
+Hardnett,Mr,0,African American
+Hardnett,Ms,0,African American
+Jeanlouis,Mr,3,African American
+Jeanlouis,Ms,18,African American
+Sow,Mr,19,African American
+Sow,Ms,19,African American
+Njoroge,Mr,1,African American
+Njoroge,Ms,1,African American
+Fofana,Mr,19,African American
+Fofana,Ms,9,African American
+Stfleur,Mr,19,African American
+Stfleur,Ms,7,African American
+Nwosu,Mr,5,African American
+Nwosu,Ms,1,African American
+Cephas,Mr,4,African American
+Cephas,Ms,0,African American
+Abdullahi,Mr,1,African American
+Abdullahi,Ms,0,African American
+Grandberry,Mr,0,African American
+Grandberry,Ms,4,African American
+Adjei,Mr,6,African American
+Adjei,Ms,19,African American
+Okeke,Mr,0,African American
+Okeke,Ms,0,African American
+Ndiaye,Mr,19,African American
+Ndiaye,Ms,7,African American
+Metellus,Mr,2,African American
+Metellus,Ms,10,African American
+Pierrelouis,Mr,0,African American
+Pierrelouis,Ms,9,African American
+Jeancharles,Mr,19,African American
+Jeancharles,Ms,5,African American
+Ojo,Mr,4,African American
+Ojo,Ms,1,African American
+Toure,Mr,0,African American
+Toure,Ms,5,African American
+Boykins,Mr,3,African American
+Boykins,Ms,1,African American
+Asare,Mr,3,African American
+Asare,Ms,1,African American
+Balogun,Mr,0,African American
+Balogun,Ms,0,African American
+Leaks,Mr,2,African American
+Leaks,Ms,0,African American
+Calixte,Mr,0,African American
+Calixte,Ms,19,African American
+Mayweather,Mr,13,African American
+Mayweather,Ms,2,African American
+Jama,Mr,19,African American
+Jama,Ms,7,African American
+Kidane,Mr,3,African American
+Kidane,Ms,7,African American
+Frimpong,Mr,4,African American
+Frimpong,Ms,3,African American
+Prioleau,Mr,19,African American
+Prioleau,Ms,19,African American
+Saintlouis,Mr,2,African American
+Saintlouis,Ms,1,African American
+Fluellen,Mr,12,African American
+Fluellen,Ms,11,African American
+Ulysse,Mr,19,African American
+Ulysse,Ms,8,African American
+Diop,Mr,3,African American
+Diop,Ms,4,African American
+Mondesir,Mr,13,African American
+Mondesir,Ms,19,African American
+Louissaint,Mr,1,African American
+Louissaint,Ms,19,African American
+Hyppolite,Mr,1,African American
+Hyppolite,Ms,3,African American
+Beyene,Mr,5,African American
+Beyene,Ms,1,African American
+Osei,Mr,1,African American
+Osei,Ms,3,African American
+Appiah,Mr,4,African American
+Appiah,Ms,14,African American
+Asante,Mr,4,African American
+Asante,Ms,4,African American
+Bekele,Mr,0,African American
+Bekele,Ms,0,African American
+Cisse,Mr,3,African American
+Cisse,Ms,13,African American
+Vassell,Mr,4,African American
+Vassell,Ms,5,African American
+Prophete,Mr,19,African American
+Prophete,Ms,6,African American
+Ravenell,Mr,6,African American
+Ravenell,Ms,19,African American
+Jeanfrancois,Mr,7,African American
+Jeanfrancois,Ms,4,African American
+Veasley,Mr,19,African American
+Veasley,Ms,15,African American
+Mekonnen,Mr,0,African American
+Mekonnen,Ms,1,African American
+Ortiz,Mr,3,Latino
+Ortiz,Ms,4,Latino
+Cardenas,Mr,19,Latino
+Cardenas,Ms,7,Latino
+Garcia,Mr,4,Latino
+Garcia,Ms,13,Latino
+Vazquez,Mr,8,Latino
+Vazquez,Ms,1,Latino
+Guzman,Mr,16,Latino
+Guzman,Ms,19,Latino
+Velasquez,Mr,3,Latino
+Velasquez,Ms,6,Latino
+Contreras,Mr,19,Latino
+Contreras,Ms,19,Latino
+Delgado,Mr,10,Latino
+Delgado,Ms,4,Latino
+Fuentes,Mr,1,Latino
+Fuentes,Ms,0,Latino
+Chavez,Mr,19,Latino
+Chavez,Ms,3,Latino
+Rivas,Mr,13,Latino
+Rivas,Ms,3,Latino
+Zamora,Mr,1,Latino
+Zamora,Ms,1,Latino
+Mendez,Mr,19,Latino
+Mendez,Ms,7,Latino
+Flores,Mr,2,Latino
+Flores,Ms,1,Latino
+Pena,Mr,1,Latino
+Pena,Ms,4,Latino
+Rangel,Mr,3,Latino
+Rangel,Ms,5,Latino
+Santana,Mr,2,Latino
+Santana,Ms,8,Latino
+Gallegos,Mr,2,Latino
+Gallegos,Ms,4,Latino
+Rosales,Mr,1,Latino
+Rosales,Ms,0,Latino
+Ramirez,Mr,3,Latino
+Ramirez,Ms,1,Latino
+Morales,Mr,4,Latino
+Morales,Ms,2,Latino
+Jimenez,Mr,4,Latino
+Jimenez,Ms,1,Latino
+Soto,Mr,10,Latino
+Soto,Ms,1,Latino
+Serrano,Mr,5,Latino
+Serrano,Ms,2,Latino
+Ayala,Mr,1,Latino
+Ayala,Ms,1,Latino
+Mejia,Mr,5,Latino
+Mejia,Ms,0,Latino
+Velez,Mr,3,Latino
+Velez,Ms,1,Latino
+Meza,Mr,3,Latino
+Meza,Ms,0,Latino
+Ruiz,Mr,7,Latino
+Ruiz,Ms,5,Latino
+Maldonado,Mr,2,Latino
+Maldonado,Ms,0,Latino
+Moreno,Mr,4,Latino
+Moreno,Ms,3,Latino
+Salinas,Mr,7,Latino
+Salinas,Ms,0,Latino
+Valenzuela,Mr,2,Latino
+Valenzuela,Ms,8,Latino
+Perez,Mr,3,Latino
+Perez,Ms,4,Latino
+Munoz,Mr,1,Latino
+Munoz,Ms,1,Latino
+Gomez,Mr,19,Latino
+Gomez,Ms,19,Latino
+Ibarra,Mr,19,Latino
+Ibarra,Ms,19,Latino
+Ochoa,Mr,17,Latino
+Ochoa,Ms,4,Latino
+Cabrera,Mr,1,Latino
+Cabrera,Ms,12,Latino
+Villarreal,Mr,9,Latino
+Villarreal,Ms,19,Latino
+Vargas,Mr,12,Latino
+Vargas,Ms,1,Latino
+Gutierrez,Mr,4,Latino
+Gutierrez,Ms,18,Latino
+Marquez,Mr,0,Latino
+Marquez,Ms,0,Latino
+Lozano,Mr,15,Latino
+Lozano,Ms,0,Latino
+Medina,Mr,19,Latino
+Medina,Ms,19,Latino
+Hernandez,Mr,5,Latino
+Hernandez,Ms,19,Latino
+Mora,Mr,12,Latino
+Mora,Ms,19,Latino
+Lara,Mr,19,Latino
+Lara,Ms,19,Latino
+Escobar,Mr,1,Latino
+Escobar,Ms,1,Latino
+Calderon,Mr,19,Latino
+Calderon,Ms,19,Latino
+Becker,Mr,3,White
+Becker,Ms,15,White
+Christensen,Mr,3,White
+Christensen,Ms,15,White
+Hartman,Mr,3,White
+Hartman,Ms,4,White
+Hanson,Mr,19,White
+Hanson,Ms,19,White
+Oneill,Mr,19,White
+Oneill,Ms,15,White
+Kramer,Mr,19,White
+Kramer,Ms,19,White
+Hurley,Mr,1,White
+Hurley,Ms,1,White
+Mahoney,Mr,3,White
+Mahoney,Ms,19,White
+Morse,Mr,9,White
+Morse,Ms,6,White
+Ryan,Mr,19,White
+Ryan,Ms,1,White
+Oconnor,Mr,3,White
+Oconnor,Ms,2,White
+Hansen,Mr,19,White
+Hansen,Ms,11,White
+Stark,Mr,19,White
+Stark,Ms,19,White
+Howe,Mr,19,White
+Howe,Ms,19,White
+Boyle,Mr,19,White
+Boyle,Ms,19,White
+Roth,Mr,19,White
+Roth,Ms,19,White
+Schwartz,Mr,3,White
+Schwartz,Ms,4,White
+Berg,Mr,19,White
+Berg,Ms,10,White
+Wagner,Mr,12,White
+Wagner,Ms,1,White
+Schultz,Mr,3,White
+Schultz,Ms,19,White
+Wolf,Mr,19,White
+Wolf,Ms,12,White
+Donovan,Mr,19,White
+Donovan,Ms,12,White
+Odonnell,Mr,19,White
+Odonnell,Ms,19,White
+Obrien,Mr,19,White
+Obrien,Ms,19,White
+Macdonald,Mr,3,White
+Macdonald,Ms,9,White
+Duffy,Mr,19,White
+Duffy,Ms,19,White
+Johnston,Mr,9,White
+Johnston,Ms,1,White
+Decker,Mr,1,White
+Decker,Ms,8,White
+Nielsen,Mr,4,White
+Nielsen,Ms,19,White
+Blankenship,Mr,3,White
+Blankenship,Ms,1,White
+Herman,Mr,19,White
+Herman,Ms,6,White
+Parsons,Mr,13,White
+Parsons,Ms,19,White
+Foley,Mr,19,White
+Foley,Ms,3,White
+Krueger,Mr,5,White
+Krueger,Ms,19,White
+Moyer,Mr,7,White
+Moyer,Ms,3,White
+Knapp,Mr,19,White
+Knapp,Ms,19,White
+Sexton,Mr,19,White
+Sexton,Ms,19,White
+Weiss,Mr,19,White
+Weiss,Ms,19,White
+Zimmerman,Mr,3,White
+Zimmerman,Ms,19,White
+Hensley,Mr,19,White
+Hensley,Ms,2,White
+Mccarthy,Mr,0,White
+Mccarthy,Ms,19,White
+Conrad,Mr,19,White
+Conrad,Ms,19,White
+Olson,Mr,19,White
+Olson,Ms,19,White
+Larsen,Mr,1,White
+Larsen,Ms,2,White
+Meyer,Mr,11,White
+Meyer,Ms,12,White
+Walsh,Mr,7,White
+Walsh,Ms,4,White
+Peck,Mr,19,White
+Peck,Ms,19,White
+Bauer,Mr,19,White
+Bauer,Ms,10,White
+Petersen,Mr,19,White
+Petersen,Ms,4,White
+Beck,Mr,4,White
+Beck,Ms,13,White
